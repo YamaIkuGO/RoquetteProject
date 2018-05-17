@@ -16,7 +16,7 @@ public class IntToEng {
 
     // 数値を英訳する変換するメソッド
     static String translateEng(int n) {
-    	//数字を読み取る
+    	
     	
     	//0~19
     	String[] NumPart1 = {"zero", "one", "two", "three", "four","five", "six", 
